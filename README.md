@@ -48,7 +48,7 @@ Attempts left: 6
 
 Guessed letters: a
 
-Enter a letter or guess the whole word:```
+Enter a letter or guess the whole word:
 
 ----------------------------------------------
 
