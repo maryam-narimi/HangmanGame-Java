@@ -33,14 +33,21 @@ Console-based and beginner-friendly
 Welcome to Hangman!
 
 Word: _ _ _ _ _
+
 Attempts left: 6
+
 Guessed letters: none
+
 Enter a letter or guess the whole word: a
+
 Good guess!
 
 Word: _ a _ _ _
+
 Attempts left: 6
+
 Guessed letters: a
+
 Enter a letter or guess the whole word:```
 
 ----------------------------------------------
