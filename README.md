@@ -1,27 +1,47 @@
-#Hangman Game
-
-A simple Java program where the user tries to guess a hidden word before running out of attempts.
+#Hangman Game – Java 
+This Java program implements the classic Hangman word-guessing game.
+A random word is selected, and the user must guess it before running out of attempts.
+The game shows your progress, used letters, and remaining attempts.
 
 ##Features
--Console-based
+Random word selection
 
--Randomly selects a word
+Guess by letter or full word
 
--Allows letter and full-word guessing
+Tracks guessed letters
 
--Beginner-friendly
+Shows remaining attempts
+
+Console-based and beginner-friendly
 
 ##How to Run
-1.Clone the repository:
+1.Open the project in NetBeans or any Java IDE.
 
-```git clone https://github.com/maryam-narimi/hangman-game.git ```
+2.Ensure that Hangman.java is inside the src folder.
 
-2.Open the project in NetBeans (or any Java IDE)
+3.Build the project.
 
-3.Compile and run Hangman.java
+4.Run the Hangman class.
 
-4.Enter letters when prompted to try and guess the word
+5.Follow the console prompts to guess the word.
 
+```Example Output
+yaml
+Copy code
+Welcome to Hangman!
+
+Word: _ _ _ _ _
+Attempts left: 6
+Guessed letters: none
+Enter a letter or guess the whole word: a
+Good guess!
+
+Word: _ a _ _ _
+Attempts left: 6
+Guessed letters: a
+Enter a letter or guess the whole word:```
+
+-------------------------
 
 ##Author
 
